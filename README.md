@@ -1,2 +1,2 @@
 # BeautySphere
-A Cosmetics Store Management System
+A Cosmetics Store Management Platform
